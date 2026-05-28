@@ -90,3 +90,14 @@ This required me to create a new routine to calculate the heuristic value for an
 <p>
 YAY!! Finally, it's all working! My ultimate aim is to take this and make it 3D. Now that's going to be a challenge ?
 </p>
+<p>
+<center>
+    [Edit]
+    <br>
+    <p>
+    <b>I finally did it, and I have to say that I'm really pleased with the end result.<br>Have a look at my Qubik repo.</b>
+    </p>
+    <br>
+    Keep coding!
+</center>
+</p>
